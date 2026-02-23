@@ -1,2 +1,2 @@
-# Jeremiah Mullen
-Here is Jack's edit of the readME for the pull request.
+# Jeremiah Mullen.
+Edited by moo58259
